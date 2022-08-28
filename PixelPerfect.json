@@ -1,0 +1,18 @@
+[{
+  "Author": "Lols",
+  "Name": "PP Plugin",
+  "InternalName": "Pixels",
+  "AssemblyVersion": "6.2",
+  "Punchline": "Shows pixel",
+  "Description": "Hello",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/backeby/PixelPerfect",
+  "Tags": [
+    "pixelperfect"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/backeby/PixelPerfect/raw/master/images/icon.png",
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
+}]
